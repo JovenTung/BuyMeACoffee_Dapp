@@ -5,6 +5,6 @@ import "hardhat/console.sol";
 contract CoffeePortal{
     
     constructor() payable{
-        console.log("Smart Contract Test");
+        console.log("Smart Contract");
     }
 }
